@@ -1,1 +1,1 @@
-My git directory
+My personal git directory
